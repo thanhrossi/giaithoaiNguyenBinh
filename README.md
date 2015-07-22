@@ -9,3 +9,6 @@
 ![alt text](https://scontent-hkg3-1.xx.fbcdn.net/hphotos-xft1/v/t1.0-9/20496_1060864530615314_4883228009254775694_n.jpg?oh=8345c2d6ed9dee55481d51512cb8739a&oe=56155E61 "Logo Title Text 1")
 
 APK file for android device: https://www.dropbox.com/s/4lomykzp9x5owgr/giaithoaiNB_101.apk?dl=0
+
+###Video bellow
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/A5NTNYAu2Dg/0.jpg)](http://www.youtube.com/watch?v=A5NTNYAu2Dg "Giai thoại Nguyễn Bính app")
