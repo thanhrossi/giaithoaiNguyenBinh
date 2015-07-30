@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="com.ionicframework.gtnguyenbinh698035" version="0.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.ionicframework.gtnguyenbinh698035" version="0.0.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>giai thoai Nguyen Binh</name>
   <description>&#xD;
-        An Ionic Framework and Cordova project.&#xD;
+        Giai thoai Nguyen Binh project.&#xD;
     </description>
-  <author email="hi@ionicframework" href="http://ionicframework.com/">&#xD;
-      Ionic Framework Team&#xD;
+  <author email="thanhrossi.tt@gmail.com" href="http://fb.me/thanhrossi">&#xD;
+      TT studio Team&#xD;
     </author>
   <content src="index.html"/>
   <access origin="*"/>
